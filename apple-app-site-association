@@ -4,7 +4,7 @@
         "details": [
             {
                 "appIDs": [
-                    "22586Q92Y4.kasha.io.lr-mobile-app.stag"
+                    "22586Q92Y4.kasha.io.lr-mobile-app.test"
                 ],
                 "paths": [
                     "/money/?*",
